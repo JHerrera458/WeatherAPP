@@ -17,3 +17,4 @@ WeatherAPP es una aplicación web simple que te permite consultar una ciudad del
 2. Ejecuta el comando `npm install` para la instalación de las dependencias.
 3. Ejecuta el comando `npm run dev` para iniciar un servidor local en modo de desarrollo.
 4. Abre tu navegador y visita http://localhost:3000 y podrás empezar a usar la aplicación.
+Si lo prefieres, también puedes visitar el proyecto [desplegado en la web](https://weather-app-eight-fawn-10.vercel.app/)
